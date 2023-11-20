@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rveillard-react-certification/static/css/main.85bb0684.css",
-    "main.js": "/rveillard-react-certification/static/js/main.9b23e021.js",
+    "main.js": "/rveillard-react-certification/static/js/main.afbe17ec.js",
     "static/js/787.06158905.chunk.js": "/rveillard-react-certification/static/js/787.06158905.chunk.js",
     "index.html": "/rveillard-react-certification/index.html",
     "main.85bb0684.css.map": "/rveillard-react-certification/static/css/main.85bb0684.css.map",
-    "main.9b23e021.js.map": "/rveillard-react-certification/static/js/main.9b23e021.js.map",
+    "main.afbe17ec.js.map": "/rveillard-react-certification/static/js/main.afbe17ec.js.map",
     "787.06158905.chunk.js.map": "/rveillard-react-certification/static/js/787.06158905.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85bb0684.css",
-    "static/js/main.9b23e021.js"
+    "static/js/main.afbe17ec.js"
   ]
 }
